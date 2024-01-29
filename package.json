@@ -1,11 +1,8 @@
 {
-  "name": "verifex.co.id",
+  "name": "verifex-dashboard",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
+  "main": "webpack.common.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
